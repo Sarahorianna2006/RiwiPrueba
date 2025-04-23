@@ -1,8 +1,8 @@
-prin("hola mundo)
+print("hola mundo")
      
 age = "henado"
 
-prit (age)
-prient(lastname(:5))
+print (age)
+#print(lastname(:5))
 # print(len(lastName))
 
